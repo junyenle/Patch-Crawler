@@ -1,6 +1,10 @@
 Patch Crawler
 Written by Jun Yen Leung
 
+PURPOSE:
+To crawl Patch.com for news articles sorted by location and category.
+Written for Computational Social Sciences Lab at USC to aid with training data acquisition.
+
 DESCRIPTION:
 Crawls Patch posts and pushes them to a database.
 
